@@ -17,9 +17,9 @@
                 <thead>
                     <tr>
                         <th>No</th>
-                        <th>Nama Barang</th>
-                        <th>Harga Barang</th>
-                        <th>Stok Barang</th>
+                        <th>Nama</th>
+                        <th>Harga</th>
+                        <th>Stok</th>
                         <th>Aksi</th>
                     </tr>
                 </thead>

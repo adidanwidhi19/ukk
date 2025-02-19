@@ -16,11 +16,11 @@
                     <input type="text" name="nama_barang" id="nama_barang" class="form-control" required>
                 </div>
                 <div class="mb-3">
-                    <label for="stok" class="form-label">Stok Barang</label>
+                    <label for="stok" class="form-label">Stok</label>
                     <input type="number" name="stok" id="stok" class="form-control" required>
                 </div>
                 <div class="mb-3">
-                    <label for="stok" class="form-label">Harga Barang</label>
+                    <label for="stok" class="form-label">Harga</label>
                     <input type="number" name="harga" id="harga" class="form-control" required>
                 </div>
                 <button type="submit" class="btn btn-primary">Simpan</button>
