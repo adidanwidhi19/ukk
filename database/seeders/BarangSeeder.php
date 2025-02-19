@@ -15,8 +15,8 @@ class BarangSeeder extends Seeder
      */
     public function run()
     {
-        Barang::create(['nama_barang' => 'Barang A', 'stok' => 10, 'harga' => 10000]);
-        Barang::create(['nama_barang' => 'Barang B', 'stok' => 20, 'harga' => 15000]);
-        Barang::create(['nama_barang' => 'Barang C', 'stok' => 30, 'harga' => 30000]);
+        Barang::create(['nama_barang' => 'Kopi', 'stok' => 100, 'harga' => 5000]);
+        Barang::create(['nama_barang' => 'Gula', 'stok' => 50, 'harga' => 8000]);
+        Barang::create(['nama_barang' => 'Susu', 'stok' => 70, 'harga' => 10000]);
     }
 }
